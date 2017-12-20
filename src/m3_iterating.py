@@ -201,7 +201,7 @@ def run_test_count_short_ones():
     # TO DO 4 (continued):  Add your 2 ADDITIONAL test(s) here:
     # Test 8:
     expected = 2
-    seq = [[1,3,5], [2,4], [6,8,10], [12,14]]
+    seq = [[1, 3, 5], [2, 4], [6, 8, 10], [12, 14]]
     actual = count_short_ones(seq)
     print()
     print('Test 8 expected:', expected)
